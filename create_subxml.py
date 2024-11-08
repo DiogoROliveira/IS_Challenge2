@@ -9,9 +9,9 @@ def create_sub_xml_by_category(base_xml, category):
     elements_by_category = defaultdict(list)
     
     # group elements by category
-    for location in xml_root.findall("Local"):
-        category_value = location.find(category).text
-        elements_by_category[category_value].append(location)
+    for airport in xml_root.findall("Airport_Code"):
+        category_value = airport.find(category).text
+        elements_by_category[category_value].append(airport)
     
     # create a sub-XML file for each category
     for category_value, elements in elements_by_category.items():
@@ -26,4 +26,4 @@ def create_sub_xml_by_category(base_xml, category):
         print(f"Sub-XML file created: {sub_xml_filename}")
 
 # Example usage
-create_sub_xml_by_category("dados.xml", "type")
+create_sub_xml_by_category("airport_code_upd.xml", "type")
