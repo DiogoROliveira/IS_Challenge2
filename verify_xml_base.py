@@ -2,7 +2,7 @@ import xmlschema
 
 def validate_xml(xml_file, xsd_file):
     try:
-
+        # load the schema
         schema = xmlschema.XMLSchema(xsd_file)
 
         if schema.is_valid(xml_file):

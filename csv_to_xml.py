@@ -3,14 +3,18 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 def csv_to_xml(csv_file, xml_file, objname):
+    # create root element
     root = ET.Element("root")
 
+    # read csv
     with open(csv_file, mode='r', newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=',')
 
+        # foreach line in csv file, an object is created
         for line in reader:
             obj = ET.Element(objname)
 
+            # add fields to object
             for field, value in line.items():
                 element = ET.SubElement(obj, field)
                 element.text = value
@@ -19,6 +23,7 @@ def csv_to_xml(csv_file, xml_file, objname):
 
     ET.ElementTree(root)
 
+    # minidom do apply 'Enter' indentation
     xml_string = ET.tostring(root, encoding='utf-8')
     xml_pretty = minidom.parseString(xml_string).toprettyxml(indent='  ')
 
