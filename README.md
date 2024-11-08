@@ -50,6 +50,7 @@
 1. Entrada de Dados - **DONE**
 2. Conversão para XML Base - **DONE**
 3. Validação XML Base - **DONE**
+4. Criação de Sub-XML por Categorias - **DONE**
 
 **REST TODO**
 
