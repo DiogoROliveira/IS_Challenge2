@@ -1,0 +1,514 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><Airport_Code>
+    <id>30609</id>
+    <ident>AAXX</ident>
+    <type>small_airport</type>
+    <name>Rothera Point Airport</name>
+    <latitude_deg>-67.5669411575</latitude_deg>
+    <longitude_deg>-68.1269931793</longitude_deg>
+    <elevation_ft>0</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Rothera Point</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AAXX</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>39579</id>
+    <ident>AQ-0001</ident>
+    <type>small_airport</type>
+    <name>Novolazarevskaya Station</name>
+    <latitude_deg>-70.8461</latitude_deg>
+    <longitude_deg>11.8472</longitude_deg>
+    <elevation_ft>390</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Queen Maud Land</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AT17</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>42221</id>
+    <ident>AQ-0002</ident>
+    <type>small_airport</type>
+    <name>Troll Airfield</name>
+    <latitude_deg>-71.95559</latitude_deg>
+    <longitude_deg>2.455581</longitude_deg>
+    <elevation_ft>4167</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Troll Station</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AT27</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>308225</id>
+    <ident>AQ-0003</ident>
+    <type>closed</type>
+    <name>González Videla Antarctic Base</name>
+    <latitude_deg>-64.824</latitude_deg>
+    <longitude_deg>-62.857</longitude_deg>
+    <elevation_ft>1</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Waterboat Point</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SCGB</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>324981</id>
+    <ident>AQ-0004</ident>
+    <type>closed</type>
+    <name>Base Cientifica Ellsworth</name>
+    <latitude_deg>-77.650008</latitude_deg>
+    <longitude_deg>-41.0333</longitude_deg>
+    <elevation_ft>0</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code />
+    <local_code>BCE</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>336960</id>
+    <ident>AQ-0005</ident>
+    <type>medium_airport</type>
+    <name>Jack F. Paulus Skiway</name>
+    <latitude_deg>-89.989444</latitude_deg>
+    <longitude_deg>-1</longitude_deg>
+    <elevation_ft>9300</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>NZSP</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>336951</id>
+    <ident>AQBC</ident>
+    <type>medium_airport</type>
+    <name>Base aerea  BoulderClay</name>
+    <latitude_deg>-74.740461</latitude_deg>
+    <longitude_deg>164.032745</longitude_deg>
+    <elevation_ft>672</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AQBC</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>336953</id>
+    <ident>AT03</ident>
+    <type>medium_airport</type>
+    <name>Concoirdia Skyway</name>
+    <latitude_deg>-75.103278</latitude_deg>
+    <longitude_deg>123.35825</longitude_deg>
+    <elevation_ft>10725</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AT03</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>330063</id>
+    <ident>AT25</ident>
+    <type>small_airport</type>
+    <name>Showa Station Skiway</name>
+    <latitude_deg>-69.006167</latitude_deg>
+    <longitude_deg>39.59</longitude_deg>
+    <elevation_ft>95</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Showa Station</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AT25</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>336959</id>
+    <ident>AT28</ident>
+    <type>medium_airport</type>
+    <name>Skyway VOSTOK</name>
+    <latitude_deg>-78.466139</latitude_deg>
+    <longitude_deg>106.84825</longitude_deg>
+    <elevation_ft>11447</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>AT28</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>307365</id>
+    <ident>EGAH</ident>
+    <type>small_airport</type>
+    <name>Halley Research Station</name>
+    <latitude_deg>-75.567406</latitude_deg>
+    <longitude_deg>-25.516435</longitude_deg>
+    <elevation_ft>103</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>EGAH</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>307366</id>
+    <ident>EGAR</ident>
+    <type>small_airport</type>
+    <name>Rothera Research Station</name>
+    <latitude_deg>-67.5675</latitude_deg>
+    <longitude_deg>-68.1274027778</longitude_deg>
+    <elevation_ft>9</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>EGAR</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>324046</id>
+    <ident>EGAT</ident>
+    <type>small_airport</type>
+    <name>Sky-Blu Field Station</name>
+    <latitude_deg>-74.849722</latitude_deg>
+    <longitude_deg>-71.566666</longitude_deg>
+    <elevation_ft>4740</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>EGAT</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>313725</id>
+    <ident>FMZJ</ident>
+    <type>small_airport</type>
+    <name>Juan de Nova Airstrip</name>
+    <latitude_deg>-17.05396</latitude_deg>
+    <longitude_deg>42.7193</longitude_deg>
+    <elevation_ft>3</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>TF</iso_country>
+    <iso_region>TF-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>FMZJ</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>11</id>
+    <ident>NZ12</ident>
+    <type>small_airport</type>
+    <name>Palmer Station Airport</name>
+    <latitude_deg>-64.775002</latitude_deg>
+    <longitude_deg>-64.054398</longitude_deg>
+    <elevation_ft>149</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>NZ0B</gps_code>
+    <local_code>NZ0B</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>5035</id>
+    <ident>NZIR</ident>
+    <type>medium_airport</type>
+    <name>McMurdo Station Ice Runway</name>
+    <latitude_deg>-77.85399627685550</latitude_deg>
+    <longitude_deg>166.468994140625</longitude_deg>
+    <elevation_ft>1</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>McMurdo Station</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>NZIR</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>5048</id>
+    <ident>NZPG</ident>
+    <type>medium_airport</type>
+    <name>McMurdo Station Pegasus Field</name>
+    <latitude_deg>-77.9634017944336</latitude_deg>
+    <longitude_deg>166.52499389648400</longitude_deg>
+    <elevation_ft>18</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>McMurdo Station</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>NZPG</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>5054</id>
+    <ident>NZSP</ident>
+    <type>medium_airport</type>
+    <name>South Pole Station Airport</name>
+    <latitude_deg>-90</latitude_deg>
+    <longitude_deg>0</longitude_deg>
+    <elevation_ft>9300</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>NZSP</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>5059</id>
+    <ident>NZWD</ident>
+    <type>medium_airport</type>
+    <name>Williams Field</name>
+    <latitude_deg>-77.86740112304690</latitude_deg>
+    <longitude_deg>167.0570068359380</longitude_deg>
+    <elevation_ft>68</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>McMurdo Station</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>NZWD</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>12</id>
+    <ident>SA47</ident>
+    <type>small_airport</type>
+    <name>Petrel Airport</name>
+    <latitude_deg>-63.47900009160000</latitude_deg>
+    <longitude_deg>-56.231300354</longitude_deg>
+    <elevation_ft>15</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code />
+    <local_code>PET</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>5830</id>
+    <ident>SAWB</ident>
+    <type>small_airport</type>
+    <name>Marambio Base</name>
+    <latitude_deg>-64.2382965088</latitude_deg>
+    <longitude_deg>-56.6307983398</longitude_deg>
+    <elevation_ft>760</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Seymour Island</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAWB</gps_code>
+    <local_code>MBI</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>39076</id>
+    <ident>SAWZ</ident>
+    <type>small_airport</type>
+    <name>Matienzo Base</name>
+    <latitude_deg>-64.976998</latitude_deg>
+    <longitude_deg>-60.108992</longitude_deg>
+    <elevation_ft>75</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAWZ</gps_code>
+    <local_code>BTM</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>39077</id>
+    <ident>SAYB</ident>
+    <type>small_airport</type>
+    <name>Base Belgrano II Airport</name>
+    <latitude_deg>-77.8740548037</latitude_deg>
+    <longitude_deg>-34.626159668</longitude_deg>
+    <elevation_ft>820</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAYB</gps_code>
+    <local_code>BEB</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>39078</id>
+    <ident>SAYE</ident>
+    <type>small_airport</type>
+    <name>Esperanza Base</name>
+    <latitude_deg>-63.4000015259</latitude_deg>
+    <longitude_deg>-56.9832992554</longitude_deg>
+    <elevation_ft>75</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Hope Bay</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAYE</gps_code>
+    <local_code>BET</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>41561</id>
+    <ident>SAYJ</ident>
+    <type>small_airport</type>
+    <name>Jubany Airbase</name>
+    <latitude_deg>-62.2383003235</latitude_deg>
+    <longitude_deg>-58.6665992737</longitude_deg>
+    <elevation_ft>12</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>South Shetland Archipielago- King George Island</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAYJ</gps_code>
+    <local_code>BJY</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>39079</id>
+    <ident>SAYO</ident>
+    <type>small_airport</type>
+    <name>Orcadas Base</name>
+    <latitude_deg>-60.7402992249</latitude_deg>
+    <longitude_deg>-44.7425003052</longitude_deg>
+    <elevation_ft>75</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Laurie Island</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAYO</gps_code>
+    <local_code>OCD</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>39080</id>
+    <ident>SAYS</ident>
+    <type>small_airport</type>
+    <name>San Martín Base</name>
+    <latitude_deg>-68.11669921880000</latitude_deg>
+    <longitude_deg>-67.0999984741</longitude_deg>
+    <elevation_ft>75</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SAYS</gps_code>
+    <local_code>BSM</local_code>
+  </Airport_Code>
+  <Airport_Code>
+    <id>308226</id>
+    <ident>SCBO</ident>
+    <type>small_airport</type>
+    <name>General Bernardo O'Higgins Base Skyway</name>
+    <latitude_deg>-63.344</latitude_deg>
+    <longitude_deg>-57.842</longitude_deg>
+    <elevation_ft>900</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>General Bernardo O'Higgins Base</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SCBO</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>45059</id>
+    <ident>SCGC</ident>
+    <type>small_airport</type>
+    <name>Unión Glaciar Airport</name>
+    <latitude_deg>-79.777778</latitude_deg>
+    <longitude_deg>-83.320833</longitude_deg>
+    <elevation_ft>2461</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Antartica</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SCGC</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>32268</id>
+    <ident>SCPZ</ident>
+    <type>small_airport</type>
+    <name>Patriot Hills Airport</name>
+    <latitude_deg>-80.31829833984380</latitude_deg>
+    <longitude_deg>-81.30809783935550</longitude_deg>
+    <elevation_ft>2900</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Antartica</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SCPZ</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>6039</id>
+    <ident>SCRM</ident>
+    <type>small_airport</type>
+    <name>Teniente Rodolfo Marsh Martin Base</name>
+    <latitude_deg>-62.1907997131</latitude_deg>
+    <longitude_deg>-58.9866981506</longitude_deg>
+    <elevation_ft>147</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality>Isla Rey Jorge</municipality>
+    <scheduled_service>no</scheduled_service>
+    <gps_code>SCRM</gps_code>
+    <local_code />
+  </Airport_Code>
+  <Airport_Code>
+    <id>302312</id>
+    <ident>YWKS</ident>
+    <type>small_airport</type>
+    <name>Wilkins Runway</name>
+    <latitude_deg>-66.690833</latitude_deg>
+    <longitude_deg>111.523611</longitude_deg>
+    <elevation_ft>2529</elevation_ft>
+    <continent>AN</continent>
+    <iso_country>AQ</iso_country>
+    <iso_region>AQ-U-A</iso_region>
+    <municipality />
+    <scheduled_service>no</scheduled_service>
+    <gps_code>YWKS</gps_code>
+    <local_code />
+  </Airport_Code>
+  </root>
