@@ -1,5 +1,5 @@
 from lxml import etree
-import saxonche
+from saxonche import PySaxonProcessor
 
 # 1. XPath
 DIRNAME = './xslt_subxml/'
@@ -16,12 +16,9 @@ for airport in LargeEUairports:
 
 
 # 2. XQuery
-proc = saxonche.PySaxonProcessor(license=False)
-
+proc = PySaxonProcessor(license=False)
 xqproc = proc.new_xquery_processor()
-
-xml_file_path = 'file:///C:/Users/digas/Desktop/Uni/3º%20Ano/S1/IS/Challenge2/xslt_subxml/airport.xml'
-
+xml_file_path = 'file:./xslt_subxml/airport.xml'
 
 xquery = '''
     for $airport in doc("''' + xml_file_path + '''")//Airport_Code
@@ -33,7 +30,6 @@ xquery = '''
 '''
 
 xqproc.set_query_content(xquery)
-
 result_string = xqproc.run_query_to_string()
 
 # remove xml declaration
@@ -41,7 +37,6 @@ result_string = result_string.replace('<?xml version="1.0" encoding="UTF-8"?>', 
 
 # create root element
 result_string = f"<root>{result_string}</root>"
-
 result_tree = etree.fromstring(result_string)
 
 

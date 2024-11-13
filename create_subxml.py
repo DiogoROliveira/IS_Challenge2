@@ -14,7 +14,6 @@ def create_sub_xml_by_category(base_xml, category):
     xml_tree = ET.parse(base_xml)
     xml_root = xml_tree.getroot()
 
-
     # dictionary to store elements by category
     elements_by_category = defaultdict(list)
     
