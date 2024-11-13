@@ -3,7 +3,7 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:template match="/">
         <root>
-                <xsl:for-each select="//Airport_Code[type='large_airport' and (continent='EU' or continent='NA')]">
+                <xsl:for-each select="//Airport_Code[(type='large_airport' or type='medium_airport') and (continent='EU' or continent='NA')]">
                     <xsl:copy-of select="."/>
                 </xsl:for-each>
         </root>
