@@ -16,7 +16,9 @@ def validate_xml(xml_file, xsd_file):
         print("An error occurred:", e)
 
 
+__dirname = './tool_files/'
+
 xmlfile = input("Enter the xml file name(with extension): ")
-xsdfile = input("Enter the xsd file name(with extension): ")
+xsdfile = open(__dirname + "schema.xsd", "r")
 
 validate_xml(xmlfile, xsdfile)
