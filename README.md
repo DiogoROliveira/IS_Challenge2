@@ -51,6 +51,7 @@
 2. Conversão para XML Base - **DONE**
 3. Validação XML Base - **DONE**
 4. Criação de Sub-XML por Categorias - **DONE**
+5. Transformação com XSLT ou XQuery - **DONE**
+6. Exploração do XML usando XPath e XQuery - **DONE(Only with XPath)**
 
-**REST TODO**
 
